@@ -1,0 +1,53 @@
+{
+  "queues": {
+    "2aadaecc-993b-4e4f-9851-09a99268af66": {
+      "id": "2aadaecc-993b-4e4f-9851-09a99268af66",
+      "name": "realtime-demo-1787640602",
+      "ordering": "fifo",
+      "priority_enabled": true,
+      "sequence_counter": 8,
+      "created_at": "2026-08-25T06:50:02Z"
+    },
+    "c6664caf-bf94-47b3-bcda-ae1e3d957463": {
+      "id": "c6664caf-bf94-47b3-bcda-ae1e3d957463",
+      "name": "realtime-demo-1787640683",
+      "ordering": "fifo",
+      "priority_enabled": true,
+      "sequence_counter": 8,
+      "created_at": "2026-08-25T06:51:23Z"
+    },
+    "89781e6d-9f62-4944-99e9-2263ee92d1b7": {
+      "id": "89781e6d-9f62-4944-99e9-2263ee92d1b7",
+      "name": "telemetry-demo-1787640773",
+      "ordering": "fifo",
+      "priority_enabled": true,
+      "sequence_counter": 8,
+      "created_at": "2026-08-25T06:52:53Z"
+    },
+    "594e493f-b6c2-483e-a09f-5d04b0f57eb3": {
+      "id": "594e493f-b6c2-483e-a09f-5d04b0f57eb3",
+      "name": "telemetry-demo-1787640778",
+      "ordering": "fifo",
+      "priority_enabled": true,
+      "sequence_counter": 8,
+      "created_at": "2026-08-25T06:52:58Z"
+    },
+    "088cec52-7740-4046-8e38-e0222dac2528": {
+      "id": "088cec52-7740-4046-8e38-e0222dac2528",
+      "name": "telemetry-demo-1787644943",
+      "ordering": "fifo",
+      "priority_enabled": true,
+      "sequence_counter": 8,
+      "created_at": "2026-08-25T08:02:23Z"
+    },
+    "649fa985-fd20-44bd-a27e-3718e696032d": {
+      "id": "649fa985-fd20-44bd-a27e-3718e696032d",
+      "name": "telemetry-demo-1787645217",
+      "ordering": "fifo",
+      "priority_enabled": true,
+      "sequence_counter": 8,
+      "created_at": "2026-08-25T08:06:57Z"
+    }
+  },
+  "items": {}
+}
